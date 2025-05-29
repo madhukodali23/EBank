@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EBank/static/css/main.066f6a3f.chunk.css",
-    "main.js": "/EBank/static/js/main.4f2e8f74.chunk.js",
-    "main.js.map": "/EBank/static/js/main.4f2e8f74.chunk.js.map",
+    "main.js": "/EBank/static/js/main.e91e8e48.chunk.js",
+    "main.js.map": "/EBank/static/js/main.e91e8e48.chunk.js.map",
     "runtime-main.js": "/EBank/static/js/runtime-main.e3cb8d57.js",
     "runtime-main.js.map": "/EBank/static/js/runtime-main.e3cb8d57.js.map",
     "static/js/2.6dee3127.chunk.js": "/EBank/static/js/2.6dee3127.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e3cb8d57.js",
     "static/js/2.6dee3127.chunk.js",
     "static/css/main.066f6a3f.chunk.css",
-    "static/js/main.4f2e8f74.chunk.js"
+    "static/js/main.e91e8e48.chunk.js"
   ]
 }
