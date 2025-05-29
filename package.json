@@ -1,7 +1,7 @@
 {
   "name": "ebank",
   "private": true,
-  "homepage": "https://madhukodali23.github.io/EBank",
+  "homepage": "https://madhukodali23.github.io/EBank/login",
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
