@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EBank/login/static/css/main.066f6a3f.chunk.css",
-    "main.js": "/EBank/login/static/js/main.4f2e8f74.chunk.js",
-    "main.js.map": "/EBank/login/static/js/main.4f2e8f74.chunk.js.map",
-    "runtime-main.js": "/EBank/login/static/js/runtime-main.5d093d66.js",
-    "runtime-main.js.map": "/EBank/login/static/js/runtime-main.5d093d66.js.map",
-    "static/js/2.6dee3127.chunk.js": "/EBank/login/static/js/2.6dee3127.chunk.js",
-    "static/js/2.6dee3127.chunk.js.map": "/EBank/login/static/js/2.6dee3127.chunk.js.map",
-    "index.html": "/EBank/login/index.html",
-    "static/css/main.066f6a3f.chunk.css.map": "/EBank/login/static/css/main.066f6a3f.chunk.css.map",
-    "static/js/2.6dee3127.chunk.js.LICENSE.txt": "/EBank/login/static/js/2.6dee3127.chunk.js.LICENSE.txt"
+    "main.css": "/EBank/static/css/main.066f6a3f.chunk.css",
+    "main.js": "/EBank/static/js/main.4f2e8f74.chunk.js",
+    "main.js.map": "/EBank/static/js/main.4f2e8f74.chunk.js.map",
+    "runtime-main.js": "/EBank/static/js/runtime-main.e3cb8d57.js",
+    "runtime-main.js.map": "/EBank/static/js/runtime-main.e3cb8d57.js.map",
+    "static/js/2.6dee3127.chunk.js": "/EBank/static/js/2.6dee3127.chunk.js",
+    "static/js/2.6dee3127.chunk.js.map": "/EBank/static/js/2.6dee3127.chunk.js.map",
+    "index.html": "/EBank/index.html",
+    "static/css/main.066f6a3f.chunk.css.map": "/EBank/static/css/main.066f6a3f.chunk.css.map",
+    "static/js/2.6dee3127.chunk.js.LICENSE.txt": "/EBank/static/js/2.6dee3127.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d093d66.js",
+    "static/js/runtime-main.e3cb8d57.js",
     "static/js/2.6dee3127.chunk.js",
     "static/css/main.066f6a3f.chunk.css",
     "static/js/main.4f2e8f74.chunk.js"
