@@ -1,0 +1,37 @@
+.home-bg-container {
+  background-color: #152850;
+  padding: 24px;
+  height: 100vh;
+}
+
+.logout-button {
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  width: 80px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.top-navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.home-page-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.digital-card-image {
+  width: 50%;
+}
+
+.digital-card-image-and-heading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
